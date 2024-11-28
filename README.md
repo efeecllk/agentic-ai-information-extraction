@@ -10,6 +10,12 @@ This repository contains resources, tools, and research related to **Agentic AI 
 - [LangChain Extraction Service](https://blog.langchain.dev/open-source-extraction-service/)
 - [FlowiseAI](https://docs.flowiseai.com)
 - [FetchAI](https://fetch.ai/docs)
+- [SlackBot-Agentic-RAG](https://github.com/HenilJShah/SlackBOT-Agentic-RAG)
+- [Gumloop](https://docs.gumloop.com/nodes/pdf/pdf_reader)
+- [OpenAGI](https://github.com/agiresearch/OpenAGI) - [Article of OpenAGI](https://arxiv.org/pdf/2304.04370)
+- [aws-agentic-document-assistant](https://github.com/aws-samples/aws-agentic-document-assistant?tab=readme-ov-file)
+- [superagentx](https://github.com/superagentxai/superagentX)
+- []()
 
 
 
