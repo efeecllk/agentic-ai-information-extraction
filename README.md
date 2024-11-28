@@ -5,8 +5,6 @@ This repository contains resources, tools, and research related to **Agentic AI 
 ---
 
 ## Potentially Useful Resources
-
-- []()
 - [LangChain Extraction Service](https://blog.langchain.dev/open-source-extraction-service/)
 - [FlowiseAI](https://docs.flowiseai.com)
 - [FetchAI](https://fetch.ai/docs)
@@ -15,7 +13,11 @@ This repository contains resources, tools, and research related to **Agentic AI 
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - [Article of OpenAGI](https://arxiv.org/pdf/2304.04370)
 - [aws-agentic-document-assistant](https://github.com/aws-samples/aws-agentic-document-assistant?tab=readme-ov-file)
 - [superagentx](https://github.com/superagentxai/superagentX)
-- []()
+## Structured Outputs
+- [llama-index](https://docs.llamaindex.ai/en/stable/examples/output_parsing/function_program/)
+- [documind github](https://github.com/DocumindHQ/documind)(extracting structured data from documents using AI)[website](https://www.documind.xyz)
+- [OmniParse](https://github.com/adithya-s-k/omniparse?tab=readme-ov-file#api-endpoints)
+
 
 
 
