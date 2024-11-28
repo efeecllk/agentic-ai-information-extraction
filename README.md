@@ -20,8 +20,6 @@ This repository contains resources, tools, and research related to **Agentic AI 
 - [superagentx](https://github.com/superagentxai/superagentX)
 - [llama-index](https://docs.llamaindex.ai/en/stable/examples/output_parsing/function_program/)
 - [AGiXT](https://github.com/Josh-XT/AGiXT)
-- [HayStack](https://haystack.deepset.ai/tutorials/27_first_rag_pipeline)
-
 ## Useful Twitter Accounts
 - [@omarsar0](https://x.com/omarsar0)
 
