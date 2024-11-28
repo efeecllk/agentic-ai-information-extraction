@@ -33,15 +33,12 @@ This repository contains resources, tools, and research related to **Agentic AI 
 
 ---
 
-## Links and Resources
-
-### Twitter
 
 
-### arXiv
-- [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934)
 
 
-### Other Links
+
+
+
 
 ---
