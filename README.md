@@ -7,6 +7,8 @@ This repository contains resources, tools, and research related to **Agentic AI 
 - [llama-index](https://docs.llamaindex.ai/en/stable/examples/output_parsing/function_program/)
 - [documind github](https://github.com/DocumindHQ/documind)(extracting structured data from documents using AI)[website](https://www.documind.xyz)
 - [OmniParse](https://github.com/adithya-s-k/omniparse?tab=readme-ov-file#api-endpoints)
+##
+-[FastRAG: Retrieval Augmented Generation for Semi-structured Data](https://arxiv.org/html/2411.13773v1)
 
 ## Potentially Useful Resources
 - [LangChain Extraction Service](https://blog.langchain.dev/open-source-extraction-service/)
